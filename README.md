@@ -2,19 +2,18 @@
 
 西西学汉语
 
-## 产品定位
+## 成员
 
-学前教育/幼儿教育类汉语学习APP
+陈嘉睿、陈哲、何敏红、龙吉、谢汐、郑梓燃
 
-## PRD1:理论加值
+## 导航
 
-* 前端产品使用了游戏化思维为产品本身进行了核心价值的加值
+* [**产品MRD**](https://github.com/kayuiii/APP_team/blob/master/%E8%A5%BF%E8%A5%BF%E5%AD%A6%E6%B1%89%E8%AF%ADMRD.md)
 
+* [**前端产品原型**](https://kayuiii.github.io/APP_team/)
 
-## 产品信息设计
+* [**前端产品原型源文件**](https://github.com/kayuiii/APP_team/blob/master/%E8%A5%BF%E8%A5%BF%E5%AD%A6%E6%B1%89%E8%AF%AD%202.0%E7%89%88%E6%9C%AC.rp)
 
-## CMS产品信息设计
+* [**CMS产品仓库**](https://github.com/kayuiii/APP_CMS)
 
-## 前后端交互
-
-## 前端产品逻辑性
+* [**CMS产品原型**](https://kayuiii.github.io/APP_CMS/)
